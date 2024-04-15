@@ -5,7 +5,7 @@ const App = () => {
   const Menus = [
     { title: "Dashboard", src: "Chart_fill" },
     { title: "Inbox", src: "Chat" },
-    { title: "accounts", src: "User", gap: true },
+    { title: "Accounts", src: "User", gap: true },
     { title: "Schedule", src: "Calendar" },
     { title: "Search", src: "Search" },
     { title: "Analytics", src: "Chart" },
